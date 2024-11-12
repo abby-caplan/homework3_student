@@ -31,5 +31,5 @@ Also, make sure that your git commands are running without errors before you ref
 Then, you can see if you made an error with your git add, commit, or push commands.
 
 
-### _your name and UW net ID_
-Write your paragraph on the importance of the required plot elements here.
+### Abby Caplan: apcaplan
+All of these elements are necessary because they make it possible to read the data and make accurate conclusions based on it. A title is needed to convey the main message of the plot. Axes with titles, units and appropriate limits are important because they tell the reader what the data on the plot actually means. Appropriate font size, tick resolution, and legends help with accessibility and clarity.
